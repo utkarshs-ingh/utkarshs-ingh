@@ -1,6 +1,6 @@
 <h1 align="center">Hi<img alt="GIF" src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" style="max-width:100%;" width="50">, I'm UTKARSH SINGH</h1>
 <h3 align="center">A passionate Software Developer || Competitve Programmer</h3>
-<p><img alt="GIF" src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" style="max-width:100%;" width="200" align="right"></p>
+<p> <img alt="GIF" src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" style="max-width:100%;-webkit-transform: scaleX(-1); transform: scaleX(-1);" width="200" align="right"></p>
 
 
 🔭 I’m currently working on [A discord Bot](https://github.com/utkarshs-ingh/DOT-BOT)
