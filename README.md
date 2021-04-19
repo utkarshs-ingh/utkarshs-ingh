@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [A discord Bot](https://github.com/utkarshs-ingh/DOT-BOT)
 
-- 🌱 I’m an active Competitive Programmer, currently upgrading my skills on Data Structures and Algorithms.
+- 🌱 I’m an active Competitive Programmer, currently upgrading my Data Structures and Algorithms skills.
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://utkarshs-ingh.herokuapp.com/)
 
