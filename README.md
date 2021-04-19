@@ -1,6 +1,6 @@
-<h1 align="center">Hi 🤝</h1><div class="tenor-gif-embed" data-postid="13436627" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/dancing-marvel-spidey-spider-man-gif-13436627">Dancing Marvel GIF</a> from <a href="https://tenor.com/search/dancing-gifs">Dancing GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script> <h1>I'm UTKARSH SINGH</h1>
+<h1 align="center">Hi 🤝, I'm UTKARSH SINGH</h1>
 <h3 align="center">A passionate Software Developer || Competitve Programmer</h3>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/Harshit564/Harshit564/blob/master/images/dev.gif"><img alt="GIF" src="https://github.com/Harshit564/Harshit564/raw/master/images/dev.gif" style="max-width:100%;" width="250" align="right"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif"><img alt="GIF" src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" style="max-width:100%;" width="250" align="right"></a></p>
 
 
 - 🔭 I’m currently working on [A discord Bot](https://github.com/utkarshs-ingh/DOT-BOT)
