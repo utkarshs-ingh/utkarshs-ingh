@@ -6,7 +6,7 @@
 
 🌱 I’m an active Competitive Programmer, currently upgrading my Data Structures and Algorithms skills.
 
-👨‍💻 All of my projects are available at my [portfolio](https://utkarshs-ingh.herokuapp.com/)
+👨‍💻 All of my projects are available at my [Portfolio](https://utkarshs-ingh.herokuapp.com/)
 
 💬 Ask me anything about [Anime](https://myanimelist.net/profile/_OxO_) or maybe Coding
 
@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/utkarsh-singh-592b411b3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="utkarsh-singh-592b411b3" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/uttu_14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="uttu_14" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/utkarshsingh15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" alt="utkarshsingh15" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/utkarshsingh15/practice/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" alt="utkarshsingh15" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
