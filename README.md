@@ -1,13 +1,7 @@
-<h1 align="center">Hi<img alt="GIF" src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" style="max-width:100%;" width="50">, I'm UTKARSH SINGH</h1>
+<h1 align="center">Hi<img alt="GIF" src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" style="max-width:100%;-webkit-transform: scaleX(-1); transform: scaleX(-1);" width="50">, I'm UTKARSH SINGH</h1>
 <h3 align="center">A passionate Software Developer</h3>
 <p> <img alt="GIF" src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" style="max-width:100%;-webkit-transform: scaleX(-1); transform: scaleX(-1);" width="180" align="right"></p>
 
-<style>
-img:hover {
-  -webkit-transform: scaleX(-1);
-  transform: scaleX(-1);
-}
-</style>
 🔭 I’m currently working on [A Discord Bot](https://github.com/utkarshs-ingh/DOT-BOT)
 
 🌱 I’m an active Competitive Programmer, currently upgrading my Data Structures and Algorithms skills.
