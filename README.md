@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🤝, I'm UTKARSH SINGH</h1>
 <h3 align="center">A passionate Software Developer || Competitve Programmer</h3>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/Harshit564/Harshit564/blob/master/images/dev.gif"><img alt="GIF" src="https://github.com/Harshit564/Harshit564/raw/master/images/dev.gif" style="max-width:100%;" width="380" align="right"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/Harshit564/Harshit564/blob/master/images/dev.gif"><img alt="GIF" src="https://github.com/Harshit564/Harshit564/raw/master/images/dev.gif" style="max-width:100%;" width="250" align="right"></a></p>
 - 🔭 I’m currently working on [A discord Bot](https://github.com/utkarshs-ingh/DOT-BOT)
 
 - 🌱 I’m an active Competitive Programmer, currently upgrading my skills on Data Structures and Algorithms.
