@@ -1,10 +1,10 @@
 <h1 align="center">Hi<img alt="GIF" src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" style="max-width:100%;-webkit-transform: scaleX(-1); transform: scaleX(-1);" width="50">, I'm UTKARSH SINGH</h1>
 <h3 align="center">A passionate Software Developer</h3>
-<p> <img alt="GIF" src="https://raw.githubusercontent.com/utkarshs-ingh/utkarshs-ingh/main/ezgif.com-gif-maker.gif" style="max-width:100%;" width="250" align="right"></p>
+<p> <img alt="GIF" src="https://raw.githubusercontent.com/utkarshs-ingh/utkarshs-ingh/main/ezgif.com-gif-maker.gif" style="max-width:100%;" width="220" align="right"></p>
 
 🔭 I’m currently working on [A Discord Bot](https://github.com/utkarshs-ingh/DOT-BOT)
 
-🌱 I’m an active Competitive Programmer, currently upgrading my Data Structures and Algorithms skills.
+🌱 I’m an active Competitive Programmer, currently upgrading my Data Structures and Algorithm skills.
 
 👨‍💻 All of my projects are available at my [Portfolio](https://utkarshs-ingh.herokuapp.com/)
 
