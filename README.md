@@ -27,5 +27,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshs-ingh&theme=onedark" alt="utkarshs-ingh"/></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=utkarshs-ingh&show_icons=true&theme=onedark&hide=issues&count_private=true" alt="utkarshs-ingh" /></p>
+<p>&nbsp;<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=utkarshs-ingh&theme=monokai" alt="utkarshs-ingh" /></p>
 
