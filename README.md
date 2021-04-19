@@ -3,17 +3,17 @@
 <p><img alt="GIF" src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" style="max-width:100%;" width="200" align="right"></p>
 
 
-- 🔭 I’m currently working on [A discord Bot](https://github.com/utkarshs-ingh/DOT-BOT)
+🔭 I’m currently working on [A discord Bot](https://github.com/utkarshs-ingh/DOT-BOT)
 
-- 🌱 I’m an active Competitive Programmer, currently upgrading my Data Structures and Algorithms skills.
+🌱 I’m an active Competitive Programmer, currently upgrading my Data Structures and Algorithms skills.
 
-- 👨‍💻 All of my projects are available at my [portfolio](https://utkarshs-ingh.herokuapp.com/)
+👨‍💻 All of my projects are available at my [portfolio](https://utkarshs-ingh.herokuapp.com/)
 
-- 💬 Ask me anything about [Anime](https://myanimelist.net/profile/_OxO_) or maybe Coding
+💬 Ask me anything about [Anime](https://myanimelist.net/profile/_OxO_) or maybe Coding
 
-- 📫 Reach me through [Mail](mailto:utkarshsingh.1306@gmail.com)
+📫 Reach me through [Mail](mailto:utkarshsingh.1306@gmail.com)
 
-- ⚡ Fun fact **people die when they are killed!**
+⚡ Fun fact **people die when they are killed!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
