@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🤝, I'm UTKARSH SINGH</h1>
+<h1 align="center">Hi 🤝, </h1><p><a target="_blank" rel="noopener noreferrer" href="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif"><img alt="GIF" src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" style="max-width:100%;" width="50" align="right"></a></p><h1>I'm UTKARSH SINGH</h1>
 <h3 align="center">A passionate Software Developer || Competitve Programmer</h3>
 <p><a target="_blank" rel="noopener noreferrer" href="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif"><img alt="GIF" src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" style="max-width:100%;" width="250" align="right"></a></p>
 
