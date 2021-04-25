@@ -2,16 +2,13 @@
 <h3 align="center">A passionate Software Developer</h3>
 <p> <img alt="GIF" src="https://raw.githubusercontent.com/utkarshs-ingh/utkarshs-ingh/main/ezgif.com-gif-maker.gif" style="max-width:100%;" width="250" align="right"></p>
 
-🔭 I’m currently working on [A Discord Bot](https://github.com/utkarshs-ingh/DOT-BOT)
 
-🌱 I’m an active competitive coder, upgrading my Data Structures and Algorithm skills.
-
-👨‍💻 All of my projects are available at my [Portfolio](https://utkarshs-ingh.herokuapp.com/)
-
-💬 Ask me anything about [Anime](https://myanimelist.net/profile/_OxO_) or maybe Coding
-
-📫 Reach me through [Mail](mailto:utkarshsingh.1306@gmail.com)
-
+💡 &nbsp;I like to explore new technologies and develop software solutions    and quick hacks.\
+👨🏻‍💻 &nbsp;I am into Web development and Python scripting.\
+✍️&nbsp;I'm also learning more about AI, and upgrading my Data Structures and Algorithm skills.\
+💬 &nbsp;Ask me anything about [Anime](https://myanimelist.net/profile/_OxO_) or maybe [Coding](https://www.codechef.com/users/uttu_14).\
+✉️ &nbsp;Reach me through mail at utkarshsingh.1306@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Have a look at my [Résumé](https://drive.google.com/file/d/1xTYtcA6ukBngXv8l0bROoeuBUObbRQMZ/view) for more details about me. I'm open to feedback and suggestions!
 ⚡ Fun fact **every 60 seconds in africa a minute passes**
 
 <h3 align="left">Connect with me:</h3>
