@@ -13,7 +13,7 @@
 
 ✉️ &nbsp;Reach me through mail at utkarshsingh.1306@gmail.com.
 
-📄 &nbsp;Have a look at my [Résumé](https://drive.google.com/file/d/1xTYtcA6ukBngXv8l0bROoeuBUObbRQMZ/view). I'm open to feedback and suggestions!
+📄 &nbsp;Have a look at my [Résumé](https://drive.google.com/file/d/1lhPpNs0k_Fju6axFfCnbnziaNrG5IRVM/view?usp=sharing). I'm open to feedback and suggestions!
 
 ⚡ Fun fact **every 60 seconds in africa a minute passes.**
 
