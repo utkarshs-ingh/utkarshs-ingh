@@ -9,7 +9,7 @@
 
 ✍️&nbsp;I'm also learning more about AI, and upgrading my Data Structures and Algorithm skills.
 
-💬 &nbsp;Ask me anything about [Anime](https://myanimelist.net/profile/_OxO_) or maybe [Coding](https://www.codechef.com/users/uttu_14).
+💬 &nbsp;Ask me anything about [Anime](https://myanimelist.net/profile/_OxO_) or maybe Coding.
 
 ✉️ &nbsp;Reach me through mail at utkarshsingh.1306@gmail.com.
 
@@ -22,7 +22,7 @@
 <a href="https://utkarshs-ingh.herokuapp.com/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/utkarsh-singh-592b411b3"><img src="https://img.shields.io/badge/-Utkarsh%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:utkarshsingh.1306@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/uttu_14"><img src="https://img.shields.io/badge/-uttu14-B5651D?style=flat&logo=Codechef&logoColor=white"/></a>
+<!-- <a href="https://www.codechef.com/users/uttu_14"><img src="https://img.shields.io/badge/-uttu14-B5651D?style=flat&logo=Codechef&logoColor=white"/></a> -->
 <a href="https://auth.geeksforgeeks.org/user/utkarshsingh15/practice/"><img src="https://img.shields.io/badge/-@utkarshsingh15-2f8d46?style=flat&logo=Geeksforgeeks&logoColor=white"/></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
